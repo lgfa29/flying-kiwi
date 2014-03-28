@@ -1,0 +1,6 @@
+# Don't commit passwords and stuffs...
+.env
+
+# Use npm to install dependencies
+# (unless this app is deployed)
+node_modules

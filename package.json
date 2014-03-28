@@ -1,0 +1,14 @@
+{
+  "name": "nodant",
+  "version": "0.0.1",
+  "description": "Test Node.js and Cloudant integration",
+  "dependencies": {
+    "socket.io": "0.9.x",
+    "socket.io-client": "0.9.x",
+    "nano": "4.7.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/npm/npm.git"
+  }
+}

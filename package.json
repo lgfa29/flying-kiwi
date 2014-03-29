@@ -1,11 +1,14 @@
 {
-  "name": "nodant",
+  "name": "flying-kiwi",
   "version": "0.0.1",
-  "description": "Test Node.js and Cloudant integration",
+  "description": "Test Kiwi and Cloudant integration with Node.js",
   "dependencies": {
     "socket.io": "0.9.x",
     "socket.io-client": "0.9.x",
     "nano": "4.7.x"
+  },
+  "engines": {
+    "node": "0.10.x"
   },
   "repository": {
     "type": "git",
